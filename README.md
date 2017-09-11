@@ -1,2 +1,3 @@
 # hello-world
-Initial intro repository
+
+Hello.  I am just a guy exploring different things.
